@@ -1,6 +1,6 @@
 This repo contains the code of Bitstars(BST) solidity file: 
 ```
-contracts/Bitstars(token).sol
+contracts/Bitstars(token)ERC20.sol
 ```
 
 
